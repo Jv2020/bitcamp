@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<!--
+	link -> anchor <a href="이동하고 싶은 파일 또는 URL">표시문자열 이미지</a>
+-->
+
+<!--
+
+form
+event resource와 같이 많이 사용.
+입력데이터 등을 전송할 수 있다.
+
+-->
+
+</body>
+</html>

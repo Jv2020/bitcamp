@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<!--
+ 
+iFrame : web page in web page
+
+ -->
+ 
+ <h3>index1</h3>
+ <iframe src="index.html" width="400" height="300"></iframe>
+ <iframe src="https://okky.kr/" width="300" height="300"></iframe>
+
+</body>
+</html>

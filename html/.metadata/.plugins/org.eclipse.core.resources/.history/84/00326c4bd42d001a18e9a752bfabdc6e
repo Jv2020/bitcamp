@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<!--
+	link -> anchor <a href="이동하고 싶은 파일 또는 URL">표시문자열 이미지</a>
+-->
+
+<!--
+
+form
+event resource와 같이 많이 사용.
+입력데이터 등을 전송할 수 있다.
+
+	id		: # 현재 페이지에서 1개만 인식 (중복x), JacaScript(=JQery)	
+	class	: . 다중 인식. CSS()
+	name	: link용. 값을 전송. 변수의 역할	
+	
+-->
+
+
+<!--   
+
+<form action="이동하고 싶은 파일 또는 주소 or 파일명"> submit
+	입력 리소스
+	<input type="submit" value="클릭">
+</form>
+
+-->
+<h3>index.html</h3>
+<form action="NewFile.html">
+	<input type="submit" value="클릭">
+</form>
+
+<br><br>
+
+<!-- 
+	input : button(submit), checkbox, radio, textfield ... 
+-->
+<form action="NewFile.html">
+   name:<input type="text" value="여기에 입력" size="12">
+   <br>
+   age:<input type="text" value="" size="10">
+   <br>
+   <input type="submit" value="button">
+   <input type="submit" value="submit">
+   <br>
+   <input type="reset" value="초기화">
+</form>
+
+name:<input type="text" value="여기에 입력" size="12">
+
+<br><br>
+
+<form action="NewFile.jsp">
+	<table border="1">
+		<tr>
+			<td>id:</td>
+			<td><input type="text" name="id" value="" size="12"></td>
+		</tr>
+		<tr>
+			<td>password:</td>
+			<td><input type = "password" name="pwd" size="12"></td>
+		</tr>	
+		<tr>
+			<td colspan="2"><input type="submit" value="이동"></td>
+		</tr>
+	</table>
+</form>
+
+<br><br>
+
+<!-- html5 -->
+<form action="">
+	number:<input type="number" max="5" min="1">
+	<br>
+	date:<input type="date">
+	<br>
+	color:<input type="color" value="#00ff00">
+</form>
+
+
+</body>
+</html>

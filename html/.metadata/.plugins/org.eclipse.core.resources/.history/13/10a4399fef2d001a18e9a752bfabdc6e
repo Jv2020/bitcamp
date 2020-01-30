@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<!-- 1 -->
+<h1>1번</h1>
+<a href="./EU.html" target="_blank">유럽 연합(EU)을 통해 하나 되는 유럽</a><br>
+<a href="./WEA.html" target="_blank">산타 마을에서 지중해까지  다양한 기후</a>
+<br>
+
+<!-- 2 -->
+<h1>2번</h1>
+<h2>유럽</h2>
+<p>
+<a style="color:red" href="https://terms.naver.com/entry.nhn?docId=960274&cid=47305&categoryId=47305" target="_blank">유럽</a>은 크게 네 지역으로 나뉘어. 스칸디나비아 반도를 포함한 북부 유럽,
+일찍부터  산업이 발달한 알프스 산맥 위쪽의 서부 유럽,
+고대 그리스·로마 문화가 꽃피었던  알프스 남쪽의 남부 유럽,
+그리고 과거 사회주의 국가가 많았던 동부 유럽으로 나뉘지.
+유럽은 민족과 문화가 다양하지만,
+최근에는 여러 나라들이 유럽 연합(EU)을 중심으로 
+하나의 유럽으로 통합되고 있어. 
+</p>
+<br>
+
+<!-- 3 -->
+<h1>3번</h1>
+<h2>자기 소개 </h2>
+<p>
+	【생년월일】 1988 년 12 월 19 일<br><br>
+	【별자리】궁수 자리<br><br> 
+	【혈액형】 A 형<br><br>
+	【취미】배드민턴, 독서<br><br> 
+	【메일 주소】 abcd@????.ne.jp<br><br>
+</p>
+<br>
+
+<!-- 4 -->
+<h1>4번</h1>
+<div style="background:#000; color:#fff; padding:20px 20px 150px 20px;">
+	<h2>유럽</h2>
+	<p>
+	유럽은 크게 네 지역으로 나뉘어. 스칸디나비아 반도를 포함한 북부 유럽,
+	일찍부터  산업이 발달한 알프스 산맥 위쪽의 서부 유럽,
+	고대 그리스·로마 문화가 꽃피었던  알프스 남쪽의 남부 유럽,
+	그리고 과거 사회주의 국가가 많았던 동부 유럽으로 나뉘지.
+	유럽은 민족과 문화가 다양하지만,
+	최근에는 여러 나라들이 유럽 연합(EU)을 중심으로 
+	하나의 유럽으로 통합되고 있어. 
+	</p>
+	<div style="overflow:hidden; border-top:1px solid #eaeaea; border-bottom:1px solid #eaeaea; padding:10px 0;">
+		<img style="float:left; margin-right:10px;" alt="유럽" src="./image/EU.jpg">
+		<h3><a href="./EU.html" target="_blank" style="color:yellow">유럽 연합(EU)을 통해 하나 되는 유럽</a></h3>
+		<p>
+		유럽 연합은 유럽 여러 나라가 세계 시장에서 경쟁력을
+		높이려고 만든 경제 공동체에서 출발했어.
+		지금은 경제뿐 아니라 정치, 사회 면에서도 하나 되기 위해 나아가고 있지.
+		현재 유럽 연합에 속한 27개 나라들은 ‘유로’라는 화폐를 공동으로 사용하고 있어. 
+		우리나라는 하나의 큰 시장이 되어 가는 유럽 연합과 
+		긴밀한 관계를 맺으려 노력하고 있지. 
+		</p>
+		<h3><a href="./WEA.html" target="_blank" style="color:yellow">산타 마을에서 지중해까지 다양한 기후</a></h3>
+		<p>
+		유럽에는 다양한 기후가 나타나. 산타 마을이 있는  북부 유럽의 핀란드는
+		겨울이 길고 매우 추운 냉대  기후 지역이야.
+		서부 유럽의 영국은 대서양에서 불어오는 습한 바람 때문에 비가 자주 내리지.
+		지중해 주변의 남부 유럽은 여름이 덥고 건조하지만,
+		겨울은 따뜻하고 비가 자주 내려. 그래서 휴양지로  인기가 좋지. 
+		</p>
+	</div>
+</div>
+<br>
+
+<!-- 5 -->
+<h1>5번</h1>
+<table border="1" style="border:6px solid #333; width:100%;">
+  <caption>가격표</caption>
+  <tr>
+    <th>크기</th>
+    <th>내용량</th>
+    <th>가격</th>
+  </tr>
+  <tr>
+  	<th>보통</th>
+    <td>500g</td>
+    <td>4,800원</td>
+  </tr>
+  <tr>
+  	<th>대</th>
+    <td>800g</td>
+    <td>7,200원</td>
+  </tr>
+  <tr>
+  	<th>특대</th>
+    <td style="color:red; font-weight:bold">1200g</td>
+    <td style="color:red; font-weight:bold">10,000원</td>
+  </tr>
+</table>
+<br>
+
+<!-- 6 -->
+<style>
+table.table06 {width:100%; border:6px solid #333; border-spacing:0; background:#cddc39;}
+table.table06 td,th{border-bottom:1px solid #333;}
+</style>
+<h1>6번</h1>
+<table class="table06">
+  <caption>가격표</caption>
+  <tr>
+    <th>크기</th>
+    <th>내용량</th>
+    <th>가격</th>
+  </tr>
+  <tr>
+  	<th>보통</th>
+    <td>500g</td>
+    <td>4,800원</td>
+  </tr>
+  <tr>
+  	<th>대</th>
+    <td>800g</td>
+    <td>7,200원</td>
+  </tr>
+  <tr>
+  	<th>특대</th>
+    <td style="color:red; font-weight:bold">1200g</td>
+    <td style="color:red; font-weight:bold">10,000원</td>
+  </tr>
+</table>
+<br>
+
+<!-- 7 -->
+<style>
+table.table07 {width:100%; text-align:center;}
+table.table07 th {background:#95deff;}
+table.table07 td:nth-child(-n+2) {font-weight:bold;}
+table.table07 td:last-child{text-align:right;}
+</style>
+<h1>7번</h1>
+<h3>고교수영부 기록</h3>
+<p>수영 기록</p>
+<table class="table07" border="1">
+  <tr>
+    <th>종목</th>
+    <th>거리</th>
+    <th>성별</th>
+    <th>기록</th>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td>100m</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td>100m</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td>100m</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td>100m</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td>100m</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td>100m</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td>100m</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+</table>
+<br>
+
+<!-- 8 -->
+<style>
+table.table08 {width:100%; text-align:center;}
+table.table08 th {background:#95deff;}
+table.table08 td:last-child{text-align:right;}
+</style>
+<h1>8번</h1>
+<h3>고교수영부 기록</h3>
+<p>수영 기록</p>
+<table class="table08" border="1">
+  <tr>
+    <th>종목</th>
+    <th>거리</th>
+    <th>성별</th>
+    <th>기록</th>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td rowspan="2">100m</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td rowspan="2">100m</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td rowspan="2">100m</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td>100m</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+  <tr>
+    <td>자유형</td>
+    <td>100m</td>
+    <td>남자</td>
+    <td>50초60</td>
+  </tr>
+</table>
+<br>
+
+</body>
+</html>

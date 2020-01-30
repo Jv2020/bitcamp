@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<!-- list -->
+<ul style="list-style-type:disc;">
+	<li>coffee</li>
+	<li>tea</li>
+	<li>milk</li>
+</ul>
+
+<ul style="list-style-type:square;">
+	<li>coffee</li>
+	<li>tea</li>
+	<li>milk</li>
+</ul>
+
+<ul style="list-style-type:none;">
+	<li><a href="">coffee</a></li>
+	<li>tea</li>
+	<li>milk</li>
+</ul>
+
+<ol> <!-- 순서가 있는 목록 -->
+	<li>Apple</li>
+	<li>Pear</li>
+	<li>Banana</li>
+</ol>
+
+
+<ol type="a" start="3"> 
+	<li>Apple</li>
+	<li>Pear</li>
+	<li>Banana</li>
+</ol>
+
+<ol type="A"> 
+	<li>Apple</li>
+	<li>Pear</li>
+	<li>Banana</li>
+</ol>
+
+<ol type="I"> 
+	<li>Apple</li>
+	<li>Pear</li>
+	<li>Banana</li>
+</ol>
+
+<ol start="2"> 
+	<li>Apple</li>
+	<li>Pear</li>
+	<li>Banana</li>
+</ol>
+
+
+</body>
+</html>

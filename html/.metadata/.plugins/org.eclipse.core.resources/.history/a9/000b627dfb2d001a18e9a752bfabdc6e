@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<style>
+em {display:block; font-weight:bold; font-style:normal; margin-top:15px;}
+ul {padding:0;}
+ul li {list-style:none; margin:10px 0;}
+ul li p {}
+ul li span {display:inline-block; margin-right:10px;}
+ul li textarea {width:300px; height:200px;}
+</style>
+</head>
+<body>
+
+<h1>설문조사</h1>
+<form>
+	<ul>
+		<li><span>이름 :</span><input type="text"></li>
+		<li><em>[질문1]</em></li>
+		<li><p>영어로 대화할 수 있습니까?</p></li>
+		<li>
+			<input type="radio" name="english" value="예" ><span>예</span>
+			<input type="radio" name="english" value="모르겠습니다" ><span>모르겠습니다</span>
+			<input type="radio" name="english" value="아니요" ><span>아니요</span>
+		<li>
+		<li><em>[질문2]</em></li>
+		<li><p>영어외에 관심있는 언어가 있으면 선택(복수 선택 가능)</p></li>
+		<li>
+			<input type="checkbox" value="예" ><span>독일어</span>
+			<input type="checkbox" value="모르겠습니다" ><span>중국어</span>
+			<input type="checkbox" value="아니요" ><span>프랑스어</span>
+		<li>		
+		<li><em>[질문3]</em></li>
+		<li><p>영어 수업에 대한 의견이 있으시면 기입해 주십시오</p></li>
+		<li>
+			<textarea></textarea>
+		<li>
+		<li><em>[질문4]</em></li>
+		<li>
+			<p>당신의 연령을 선택해 주십시오.
+				<select name="age">
+					<option value="10대">10대</option>
+					<option value="20대">20대</option>
+					<option value="30대">30대</option>
+					<option value="40대">40대</option>
+					<option value="50대">50대</option>
+					<option value="60대">60대</option>
+					<option value="70대">70대</option>
+					<option value="80대">80대</option>
+					<option value="90대">90대</option>
+				</select>
+			</p>
+		</li>
+	</ul>
+</form>
+
+</body>
+</html>

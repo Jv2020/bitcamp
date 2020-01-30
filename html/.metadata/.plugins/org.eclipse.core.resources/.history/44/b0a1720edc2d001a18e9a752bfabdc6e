@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<table>
+	<cation>테이블 타입1</cation>
+	<colgroup>
+		<col width=120px>
+		<col width=*>
+	</colgroup>
+	<tbody>
+		<tr>
+			<th scope="row">제목</th>
+			<td><input type="text" class="txt"></td>
+		</tr>
+		<tr>
+			<th scope="row">비밀번호</th>
+			<td><input type="password" class="txt w200"></td>
+		</tr>
+		<tr>
+			<th scope="row">파일</th>
+			<td><input type="file" class="txt w200"></td>
+		</tr>
+		<tr>
+			<th scope="row">자기소개</th>
+			<td>
+				<div class="textarea_grp">
+					<textarea row="20" cols="20"></textarea>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+</body>
+</html>

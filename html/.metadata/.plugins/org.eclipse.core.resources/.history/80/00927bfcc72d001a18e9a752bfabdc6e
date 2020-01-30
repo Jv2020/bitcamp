@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body bgcolor="#000" text="#fff">
+<h1>타히티 사진</h1>
+<p>다음 사진을 클릭하면, 확대 사진을 볼 수 있습니다</p><br><br>
+
+<div align="center">
+	<a href="./images/tahiti01.jpg" target="photo">
+		<img alt="" src="./images/tahiti01s.jpg">
+	</a>
+	
+	<a href="./images/tahiti02.jpg" target="photo">
+		<img alt="" src="./images/tahiti02s.jpg">
+	</a>
+	
+	<a href="./images/tahiti03.jpg" target="photo">
+		<img alt="" src="./images/tahiti03s.jpg">
+	</a>
+	
+	<a href="./images/tahiti04.jpg" target="photo">
+		<img alt="" src="./images/tahiti04s.jpg">
+	</a>
+	
+	<a href="./images/tahiti05.jpg" target="_blank">
+		<img alt="" src="./images/tahiti05s.jpg">
+	</a>
+	
+<br><br><br>
+
+<iframe src=""./images/tahiti01.jpg"></iframe>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,17 @@
+
+1월 02, 2020 11:21:18.09 NEW SESSION
+1월 02, 2020 11:21:18.09 [19488:22916:0102/112118.089:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.994 s for first_image_paint 0.962 s
+1월 02, 2020 11:21:19.30 [19488:22916:0102/112119.300:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.994 s for first_image_paint 0.962 s
+1월 02, 2020 11:21:20.87 [19488:22916:0102/112120.873:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.994 s for first_image_paint 0.962 s
+1월 02, 2020 13:48:03.23 [18312:14160:0102/134803.230:ERROR:socket_stream.cc(218)] Closing stream with result -2
+1월 02, 2020 14:06:21.33 [18312:14160:0102/140621.330:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+
+1월 03, 2020 13:49:13.89 NEW SESSION
+1월 03, 2020 13:49:13.89 [11060:15136:0103/134913.899:ERROR:socket_stream.cc(218)] Closing stream with result -2
+1월 03, 2020 14:14:02.76 [11060:15136:0103/141402.761:ERROR:connection_factory_impl.cc(418)] Failed to connect to MCS endpoint with error -106
+1월 03, 2020 17:01:49.43 [19120:9068:0103/170149.437:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint (unset) for first_image_paint 0.084 s
+1월 03, 2020 17:01:50.48 [19120:9068:0103/170150.485:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.117 s for first_image_paint 0.084 s
+1월 03, 2020 17:01:53.13 [19120:9068:0103/170153.129:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.117 s for first_image_paint 0.084 s
+1월 03, 2020 17:01:55.48 [19120:9068:0103/170155.483:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.117 s for first_image_paint 0.084 s
+1월 03, 2020 17:02:01.39 [19120:9068:0103/170201.396:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.117 s for first_image_paint 0.084 s
+1월 03, 2020 17:03:25.18 [19120:9068:0103/170325.188:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.117 s for first_image_paint 0.084 s
